@@ -1,4 +1,2 @@
-# first
-this is a test
-#include <iostream>
- using namespace std;
+the new shit i depkS'ADLFMsda,fcm iWENFGV'Lksenf
+ajsedrfgiknqads;lkfgn
